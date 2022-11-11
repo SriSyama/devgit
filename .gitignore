@@ -1,4 +1,4 @@
 syama.info
 abc.log
-.*log
+*.log
 log/
